@@ -6,6 +6,3 @@ new line
 add new logic
 
 some business logic.... blablabla.
-1
-2	
-3
